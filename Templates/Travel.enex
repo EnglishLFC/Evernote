@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export3.dtd">
+<en-export export-date="20130712T150621Z" application="Evernote" version="Evernote Mac 5.1.4 (401297)">
+<note><title>Travel Information</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+
+<en-note lang="sv">
+      <div>
+        <p><b>Travel Information</b></p>
+      </div>
+      <div>
+        <p><b>Flight details</b></p>
+      </div>
+      <div>
+        <table border="1" cellpadding="0" cellspacing="0" style="direction:ltr; border-collapse:collapse;border-style:solid;border-color:#A3A3A3;border-width: 1pt">
+          <tr>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>Airline</p></td>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>&nbsp;</p></td>
+          </tr>
+          <tr>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>Ticket Number</p></td>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>&nbsp;</p></td>
+          </tr>
+          <tr>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>Confirmation Number</p></td>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>&nbsp;</p></td>
+          </tr>
+          <tr>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>Cost</p></td>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>&nbsp;</p></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <p><b>Hotel Details</b></p>
+      </div>
+      <div>
+        <table border="1" cellpadding="0" cellspacing="0" style="direction:ltr; border-collapse:collapse;border-style:solid;border-color:#A3A3A3;border-width: 1pt">
+          <tr>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>Hotel</p></td>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>&nbsp;</p></td>
+          </tr>
+          <tr>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>Address</p></td>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>&nbsp;</p></td>
+          </tr>
+          <tr>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>Phone</p></td>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>&nbsp;</p></td>
+          </tr>
+          <tr>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>Confirmation Number</p></td>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>&nbsp;</p></td>
+          </tr>
+          <tr>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>Cost</p></td>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>&nbsp;</p></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <p><b>Car Rental</b></p>
+      </div>
+      <div>
+        <table border="1" cellpadding="0" cellspacing="0" style="direction:ltr; border-collapse:collapse;border-style:solid;border-color:#A3A3A3;border-width: 1pt">
+          <tr>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>Company</p></td>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>&nbsp;</p></td>
+          </tr>
+          <tr>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>Pickup Address</p></td>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>&nbsp;</p></td>
+          </tr>
+          <tr>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>Phone</p></td>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>&nbsp;</p></td>
+          </tr>
+          <tr>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>Confirmation Number</p></td>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>&nbsp;</p></td>
+          </tr>
+          <tr>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>Cost</p></td>
+            <td style="width:2in;padding:1.95pt 3.0pt 1.95pt 3.0pt"><p>&nbsp;</p></td>
+          </tr>
+        </table>
+      </div>
+
+</en-note>]]>
+</content><tag>Travel</tag><note-attributes><subject-date>19700101T000000Z</subject-date><author>Nigel Houghton</author></note-attributes></note>
+</en-export>
