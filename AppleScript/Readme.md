@@ -7,3 +7,8 @@
 
  * [ToDo.applescript](https://github.com/EnglishLFC/Evernote/blob/master/AppleScript/ToDo.applescript) - Simple script that makes a ToDo list
 
+ * [Leadership Meeting Notes.applescript](https://github.com/EnglishLFC/Evernote/blob/master/AppleScript/Leadership Meeting Notes.applescript) - Create a note in Evernote to record
+   Leadership Meeting Notes happens bi-weekly on a Friday so it figures
+   out if the day is a Friday or not.  If not, counts up to the next
+   Friday and uses that date in the title.
+
