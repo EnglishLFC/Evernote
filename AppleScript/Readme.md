@@ -12,3 +12,7 @@
    out if the day is a Friday or not.  If not, counts up to the next
    Friday and uses that date in the title.
 
+ * [Farley File.applescript](https://github.com/EnglishLFC/Evernote/blob/master/AppleScript/Farley File.applescript) - Creates a note in Evernote for a Farley File
+
+ * [Packing List.applescript](https://github.com/EnglishLFC/Evernote/blob/master/AppleScript/Packing List.applescript) - Creates a note in Evernote for a Packing List
+
