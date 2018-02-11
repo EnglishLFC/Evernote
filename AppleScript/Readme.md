@@ -7,12 +7,12 @@
 
  * [ToDo.applescript](https://github.com/EnglishLFC/Evernote/blob/master/AppleScript/ToDo.applescript) - Simple script that makes a ToDo list
 
- * [Leadership Meeting Notes.applescript](https://github.com/EnglishLFC/Evernote/blob/master/AppleScript/Leadership Meeting Notes.applescript) - Create a note in Evernote to record
+ * [Leadership Meeting Notes.applescript](https://github.com/EnglishLFC/Evernote/blob/master/AppleScript/Leadership%20Meeting%20Notes.applescript) - Create a note in Evernote to record
    Leadership Meeting Notes happens bi-weekly on a Friday so it figures
    out if the day is a Friday or not.  If not, counts up to the next
    Friday and uses that date in the title.
 
- * [Farley File.applescript](https://github.com/EnglishLFC/Evernote/blob/master/AppleScript/Farley File.applescript) - Creates a note in Evernote for a Farley File
+ * [Farley File.applescript](https://github.com/EnglishLFC/Evernote/blob/master/AppleScript/Farley%20File.applescript) - Creates a note in Evernote for a Farley File
 
- * [Packing List.applescript](https://github.com/EnglishLFC/Evernote/blob/master/AppleScript/Packing List.applescript) - Creates a note in Evernote for a Packing List
+ * [Packing List.applescript](https://github.com/EnglishLFC/Evernote/blob/master/AppleScript/Packing%20List.applescript) - Creates a note in Evernote for a Packing List
 
